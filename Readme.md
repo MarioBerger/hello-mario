@@ -1,3 +1,3 @@
-﻿# Test
+﻿# C# Übung	
 
-Test für eine Readme
+Eine einfache Übung für C#
