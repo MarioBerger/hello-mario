@@ -7,6 +7,7 @@ namespace hello_mario
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mario!");
+            Console.WriteLine("Drücken Sie 'ENTER' um das Fenster zu schließen.");
             Console.ReadLine();
         }
     }
